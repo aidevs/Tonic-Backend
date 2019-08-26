@@ -1,0 +1,8 @@
+input.form-error,select.form-error{border: 1px solid #a94442;}
+div.error-message{color: #a94442;}
+#LunchBreakBarberAddLunchForm .btn:active,#LunchBreakBarberAddLunchForm .active.btn {
+    background-color: #35aa47;
+    background-image: none;
+   color: #fff;
+}
+.bootstrap-switch-id-UserUnlimitedBarber{width: 170px;}
